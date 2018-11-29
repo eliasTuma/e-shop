@@ -1,0 +1,17 @@
+c:\users\elias\documents\visual studio 2015\Projects\eShopClient\eShopClient\bin\Debug\eShopClient.exe.config
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\bin\Debug\eShopClient.exe
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\bin\Debug\eShopClient.pdb
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.csprojResolveAssemblyReference.cache
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.Properties.Resources.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.csproj.GenerateResource.Cache
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.exe
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.pdb
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.Login.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.SignUp.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.NewBusiness.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.MainForm.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.AddNewProduct.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.BusinessInfo.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.EditProduct.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.About.resources
+C:\Users\elias\Documents\Visual Studio 2015\Projects\eShopClient\eShopClient\obj\Debug\eShopClient.Help.resources

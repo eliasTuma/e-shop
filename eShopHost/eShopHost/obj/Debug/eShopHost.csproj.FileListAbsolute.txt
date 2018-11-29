@@ -1,0 +1,11 @@
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\bin\Debug\eShopHost.exe.config
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\bin\Debug\eShopHost.exe
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\bin\Debug\eShopHost.pdb
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\bin\Debug\eShopService.dll
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\bin\Debug\eShopService.pdb
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\obj\Debug\eShopHost.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\obj\Debug\eShopHost.Form1.resources
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\obj\Debug\eShopHost.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\obj\Debug\eShopHost.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\obj\Debug\eShopHost.exe
+c:\users\elias\documents\visual studio 2015\Projects\eShopHost\eShopHost\obj\Debug\eShopHost.pdb

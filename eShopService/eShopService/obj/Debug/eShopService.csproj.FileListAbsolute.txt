@@ -1,0 +1,6 @@
+C:\Users\elias\documents\visual studio 2015\Projects\eShopService\eShopService\bin\Debug\eShopService.dll.config
+C:\Users\elias\documents\visual studio 2015\Projects\eShopService\eShopService\bin\Debug\eShopService.dll
+C:\Users\elias\documents\visual studio 2015\Projects\eShopService\eShopService\bin\Debug\eShopService.pdb
+C:\Users\elias\documents\visual studio 2015\Projects\eShopService\eShopService\obj\Debug\eShopService.csprojResolveAssemblyReference.cache
+C:\Users\elias\documents\visual studio 2015\Projects\eShopService\eShopService\obj\Debug\eShopService.dll
+C:\Users\elias\documents\visual studio 2015\Projects\eShopService\eShopService\obj\Debug\eShopService.pdb

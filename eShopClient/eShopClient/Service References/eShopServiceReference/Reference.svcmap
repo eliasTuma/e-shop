@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f7a88fb7-f0b2-4b7a-b858-c20b3d9b064e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="45aa59f3-211b-485a-a50d-8be6b4d412b2" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="036434dd-9be8-4877-bb06-239d80efea98" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/?disco" />
+    <MetadataFile FileName="eShopService.wsdl" MetadataType="Wsdl" ID="5fbcef1c-9f4c-4fd5-9496-b66c8f648d58" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/?wsdl" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="80b7f0b6-9cff-417a-822e-185fe1099f14" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="57e8b599-a206-4668-9d6c-9fe8c9852801" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/?xsd=xsd3" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="10e4fcf4-1a92-4541-b271-41876b993aee" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/eShopService/Service1/?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
